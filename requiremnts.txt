@@ -1,0 +1,5 @@
+Flask==2.3.4
+flask-cors==4.1.1
+flasgger==0.9.7
+openai-whisper==20230616
+google-genai==0.3.2
